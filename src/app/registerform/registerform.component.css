@@ -1,0 +1,16 @@
+.container
+{
+    max-width: 500px;
+    margin: auto;
+    background-color:#fff;
+    padding: 2% 5%;
+}
+button 
+{
+    background-color: black;
+    color: #fff;
+}
+.error 
+{
+    color: red;
+}
